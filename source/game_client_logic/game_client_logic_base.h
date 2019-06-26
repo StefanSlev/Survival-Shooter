@@ -1,0 +1,13 @@
+#ifndef GAME_CLIENT_LOGIC_BASE
+#define GAME_CLIENT_LOGIC_BASE
+
+#include <shared/shared.h>
+
+#define BEGIN_GCL_NAMESPACE namespace gcl {
+#define END_GCL_NAMESPACE }
+
+BEGIN_GCL_NAMESPACE
+
+END_GCL_NAMESPACE
+
+#endif // GAME_CLIENT_LOGIC_BASE

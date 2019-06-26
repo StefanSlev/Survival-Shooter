@@ -1,0 +1,19 @@
+#ifndef HERMES_ONLINE_BASE
+#define HERMES_ONLINE_BASE
+
+#include "hermes/hermes_base.h"
+#include <cpr/cpr.h>
+
+BEGIN_HERMES_NAMESPACE
+
+#define BEGIN_ONLINE_NAMESPACE namespace online {
+#define END_ONLINE_NAMESPACE }
+
+BEGIN_ONLINE_NAMESPACE
+
+
+END_ONLINE_NAMESPACE
+
+END_HERMES_NAMESPACE
+
+#endif // HERMES_ONLINE_BASE

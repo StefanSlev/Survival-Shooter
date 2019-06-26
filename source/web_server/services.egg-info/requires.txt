@@ -1,0 +1,10 @@
+wheel
+pyramid
+waitress
+sqlalchemy
+mysql-connector-python-rf
+pyjwt
+sklearn
+
+[dev]
+ipdb

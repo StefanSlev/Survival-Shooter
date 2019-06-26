@@ -1,0 +1,20 @@
+#ifndef HERMES_COMMUNICATION_GAME_CLIENT_STATE
+#define HERMES_COMMUNICATION_GAME_CLIENT_STATE
+
+#include "hermes/communication/communication_base.h"
+
+BEGIN_HERMES_NAMESPACE
+
+BEGIN_COMMUNICATION_NAMESPACE
+
+enum class GameClientState : std::uint8_t
+{
+	WaitingForNetwork,
+	NetworkReady
+};
+
+END_COMMUNICATION_NAMESPACE
+
+END_HERMES_NAMESPACE
+
+#endif // HERMES_COMMUNICATION_GAME_CLIENT_STATE
