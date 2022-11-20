@@ -1,3 +1,8 @@
 # Survival-Shooter
+
 Online Multiplayer Top-Down Survival Shooter 
-- uses Hermes-Engine for online and networking
+- proves functionality of custom created online and networking library: [Hermes-Engine](https://github.com/StefanSlev/Hermes-Engine).
+
+<br/>
+
+![preview](./resources/preview.png)
